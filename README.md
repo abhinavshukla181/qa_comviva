@@ -1,5 +1,6 @@
 Test id: TC001
 Description: verifying WhatsApp messaging functuinality
+
         steps:
             1) Open whatsApp web link by "https://web.whatsapp.com/" in browser.
             2) Login to whatsapp by valid mobile number using opt verification.
@@ -13,6 +14,7 @@ Description: verifying WhatsApp messaging functuinality
             4) Cursor will change from arrow to blinking straight line.
             5) new message will be displayed with double tick in chat section.
 
+
 Prerequsites: 
             1) valid and active mobile number which can recieve authentication otp.
             2) stable and fast internet connection.
@@ -20,6 +22,8 @@ Prerequsites:
 
 Test Result: Message should be sent successfuly to another contact.
 Test Resul Status: Passed
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Test id: TC002
 Description: verifying WhatsApp Status functuinality
